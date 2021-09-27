@@ -14,4 +14,4 @@ python create_stimuli.py -r 0.17
 Once the script has run, the stimuli will be in the directory you have chosen along with a CSV file: `stimuli.csv`, which contains useful details per stimulus. 
 
 
-The authors of this code repository is Dr. Olivia Guest after the joined research collaboration with the Transparency in Algorithms Group of the CYENS Centre of Excellence, Nicosia, Cyprus. The primary active repository is originally published in https://github.com/oliviaguest/CFD-backgrounds.
+The author of this code repository is Dr. Olivia Guest and this work was conducted under the joined research collaboration with the Transparency in Algorithms Group of the CYENS Centre of Excellence, Nicosia, Cyprus. The primary active repository is originally published in https://github.com/oliviaguest/CFD-backgrounds.
